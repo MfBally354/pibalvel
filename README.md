@@ -731,9 +731,9 @@ SOFTWARE.
 
 **Developer Team**
 
-- Website: [https://yourdomain.com](https://yourdomain.com)
-- Email: developer@yourdomain.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Website: https://MfBally354.github.io/Portofolio/
+- Email: iqbalguntur313@gmail.com
+- GitHub: https://github.com/MfBally354
 
 ---
 
