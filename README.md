@@ -7,6 +7,9 @@
 Aplikasi dashboard modern yang dibangun dengan Laravel 12, menampilkan sistem manajemen data barang dan transaksi dengan antarmuka yang bersih dan responsif menggunakan Bootstrap 5.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13318ee2-9042-4ff6-874f-6a99f9f46eaf" />
+<img width="1920" height="1080" alt="Screenshot (606)" src="https://github.com/user-attachments/assets/32f26e55-83b9-4092-8025-542902584d05" />
+<img width="1920" height="1080" alt="Screenshot (605)" src="https://github.com/user-attachments/assets/50b1f562-2bf1-467e-ada0-59cd4340c50e" />
+<img width="1920" height="1080" alt="Screenshot (604)" src="https://github.com/user-attachments/assets/1150a52d-9855-4068-b1cd-346b05fd1f4c" />
 
 
 ---
